@@ -58,11 +58,11 @@ Cloud sync for real-time data access
 Notifications or logs for dispatch alerts
 
 ## 📚 References
-Flutter Documentation
+[Flutter Documentation](https://flutter.dev/)
 
-qr_flutter Plugin
+[qr_flutter Plugin](https://pub.dev/packages/qr_flutter)
 
-qr_code_scanner Plugin
+[qr_code_scanner Plugin](https://pub.dev/packages/qr_code_scanner)
 
 Research papers on inventory automation
 
