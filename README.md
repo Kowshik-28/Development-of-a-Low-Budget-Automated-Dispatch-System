@@ -29,3 +29,45 @@ This project provides a low-cost alternative to RFID-based dispatch systems usin
 2. Clone this repository:
    ```bash
    git clone https://github.com/Kowshik-28/Development-of-a-Low-Budget-Automated-Dispatch-System
+3. Navigate to the project folder:
+   cd automated-dispatch
+4. Install dependencies:
+   flutter pub get
+5. Run the app on your device/emulator:
+   flutter run
+## 📦 Technologies Used
+Flutter + Dart
+
+qr_flutter and qr_code_scanner for QR code handling
+
+SQLite for local database
+
+Android/iOS smartphone (no special hardware required)
+
+##💡 Why Not RFID?
+Method       |	Pros	                             | Cons
+__________________________________________________________________________________
+RFID	       | Fully automated, fast              | Expensive, hardware needed
+QR + Flutter |	Cheap, flexible, smartphone-based  | Manual scanning unless automated
+
+## 🔄 Future Improvements
+IR or Proximity sensors for auto-detection
+
+Cloud sync for real-time data access
+
+Notifications or logs for dispatch alerts
+
+## 📚 References
+Flutter Documentation
+
+qr_flutter Plugin
+
+qr_code_scanner Plugin
+
+Research papers on inventory automation
+
+## 📬 Contact
+For questions or collaboration:
+Your Kancharla Kowshik
+Email: kanchalakowshik28@gmail.coom
+GitHub: kowshik_28
