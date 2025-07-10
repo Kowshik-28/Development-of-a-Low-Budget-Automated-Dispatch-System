@@ -28,4 +28,4 @@ This project provides a low-cost alternative to RFID-based dispatch systems usin
 1. **Install Flutter SDK** (https://docs.flutter.dev/get-started/install)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/automated-dispatch.git
+   git clone https://github.com/Kowshik-28/Development-of-a-Low-Budget-Automated-Dispatch-System
